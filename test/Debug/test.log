@@ -1,0 +1,136 @@
+﻿已經開始建置於 2019/1/3 上午3:32:24。
+     1>節點 2 (Build 目標) 上的專案 "C:\ctest\test\test\test.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\ctest\test\test\source.cpp(390): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(391): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(396): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(397): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(398): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(403): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(404): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(409): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(410): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(411): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(416): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(417): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(422): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(423): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(424): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(429): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(430): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(435): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(436): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(437): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(377) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(280) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(571): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(572): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(577): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(578): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(579): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(584): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(585): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(590): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(591): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(592): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(597): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(598): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(603): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(604): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(605): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(610): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(611): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(616): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(617): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(618): warning C4258: 'j' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\ctest\test\test\source.cpp(558) : 已忽略 'j' 的定義
+                 c:\ctest\test\test\source.cpp(461) : 已使用 'j' 的定義
+     1>c:\ctest\test\test\source.cpp(708): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(99) : 請參閱 'gmtime' 的宣告
+     1>c:\ctest\test\test\source.cpp(781): warning C4129: ' ' : 無法辨識的字元逸出序列
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ctest\test\Debug\test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\ctest\test\Debug\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ctest\test\Debug\test.lib" /MACHINE:X86 Debug\Source.obj
+         test.vcxproj -> C:\ctest\test\Debug\test.exe
+     1>專案 "C:\ctest\test\test\test.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.94
